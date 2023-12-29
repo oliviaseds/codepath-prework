@@ -15,7 +15,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![First App GIF](https://i.imgur.com/XG6GHRl.gif)
+<a href="https://i.imgur.com/XG6GHRl.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/XG6GHRl.gif">
+</a>
 
 ## App Brainstorming
 
