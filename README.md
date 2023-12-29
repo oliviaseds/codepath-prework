@@ -12,12 +12,10 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
+
 ## Video Walkthrough
 
-<a href="https://www.loom.com/share/7754dbbf175c47b4af6b4c39f963aafc">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7754dbbf175c47b4af6b4c39f963aafc-with-play.gif">
-</a>
+![First App GIF](https://i.imgur.com/XG6GHRl.gif)
 
 ## App Brainstorming
 
